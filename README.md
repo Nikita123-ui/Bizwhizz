@@ -1,0 +1,2 @@
+# bizwhizz
+its a blog
